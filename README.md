@@ -1,3 +1,9 @@
+# **Code Red, It's the end of heavy human labor work.**
+
+# Goal 
+
+The Ultimate goal for this repo is to build a tool that is extendable, and capable to solve problems required expert knowledge and years of experience. Think of this as a HyperShell of your brain, that can help you more easily navigate difficult problems, be your true copilot of everyday challenge.
+
 # API Configuration Guide
 
 ## Setup Instructions

@@ -47,13 +47,6 @@ agent = create_agent(model=model,
                      system_prompt="You are a helpful assistant that can answer questions and provide information."
                     )
 
-# res = agent.invoke({
-#     "messages":[{"role":"user","content":"What is the weather like in New York?"}]
-# })
-# print(res)
-
-# handle message from user input in TUI
-
 class StateCommandProvider(Provider):
     """A command provider to print the current message state."""
     
